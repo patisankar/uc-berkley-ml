@@ -17,3 +17,10 @@ In neural networks, algorithms such as gradient descent use derivatives to updat
 In linear and logistic regression, calculus helps find the optimal coefficients by minimizing the loss.
 In reinforcement learning, calculus optimizes policies that maximize long-term rewards.
 
+## Resource
+Frost, Jim. “Covariance: Formula, Definition & Example Links to an external site..” Statistics by Jim. Accessed May 10, 2024. https://statisticsbyjim.com/basics/covariance/.
+StatQuest with Josh Starmer. “Covariance, Clearly Explained!!! Links to an external site.” YouTube. Last modified July 29, 2019. https://www.youtube.com/watch?v=qtaqvPAeEJY.
+Frost, Jim. “Conditional Probability: Definition, Formula & Examples Links to an external site..” Statistics by Jim. Accessed May 10, 2024. https://statisticsbyjim.com/probability/conditional-probability/.
+Book reference (for outside purchase):
+
+Aggarwal, Charu C. Probability and Statistics for Machine Learning Links to an external site.. Thompson: Springer, 2024.
